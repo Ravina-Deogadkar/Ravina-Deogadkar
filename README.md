@@ -1,12 +1,12 @@
 ### Hi I'm Ravina 👋
 
-##I am a web developer and a tech writer. I have worked on Javascript,react and C# projects. Currently I am working as a Member of Technical Staff at Center for Computational Technology.
+#### I am a web developer and a tech writer. I have worked on Javascript,react and C# projects. Currently I am working as a Member of Technical Staff at Center for Computational Technology.
 
 - 🔭 I’m currently working on dine-out (Swiggy clone) and real-estate app
 - 🌱 I’m currently learning python and angular.
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about Javascript.
-- 📫 How to reach me: ravina.deogadkar@gmail.com or Twitter @deogadkarravina
+- 📫 How to reach me: ravina.deogadkar@gmail.com or Twitter @DeogadkarRavina
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am music addict and I am currently learning to play different instruments.
 <!--
