@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Asynchronous programming with C#](https://dev.to/deogadkarravina/asynchronous-programming-with-c-34pd)
 - [Why C# records should be preferred over classes.](https://dev.to/deogadkarravina/why-c-records-should-be-preferred-over-classes-2jhp)
 - [Understanding TDD](https://dev.to/deogadkarravina/understanding-tdd-4end)
 - [How to create an image from an existing container](https://dev.to/deogadkarravina/how-to-create-new-image-from-existing-container-olf)
-- [Learn how to spin up docker container](https://dev.to/deogadkarravina/create-docker-container-9nj)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
