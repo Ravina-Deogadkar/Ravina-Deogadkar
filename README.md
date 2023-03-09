@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Send SMTP email with Node.js using Nodemailer](https://dev.to/deogadkarravina/send-smtp-email-with-nodejs-using-nodemailer-45l0)
 - [WPF: Working with Templates](https://dev.to/deogadkarravina/wpf-working-with-templates-1jkb)
 - [Asynchronous programming with C#](https://dev.to/deogadkarravina/asynchronous-programming-with-c-34pd)
 - [Why C# records should be preferred over classes.](https://dev.to/deogadkarravina/why-c-records-should-be-preferred-over-classes-2jhp)
-- [Understanding TDD](https://dev.to/deogadkarravina/understanding-tdd-4end)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
