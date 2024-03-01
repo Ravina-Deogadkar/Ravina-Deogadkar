@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Reflecting my Journey](https://dev.to/deogadkarravina/reflecting-my-journey-2cgi)
 - [Unleashing the Power of Delegates in C#: Boost Your Programming Skills](https://dev.to/deogadkarravina/unleashing-the-power-of-delegates-in-c-boost-your-programming-skills-3ah5)
 - [Send SMTP email with Node.js using Nodemailer](https://dev.to/deogadkarravina/send-smtp-email-with-nodejs-using-nodemailer-45l0)
 - [WPF: Working with Templates](https://dev.to/deogadkarravina/wpf-working-with-templates-1jkb)
-- [Asynchronous programming with C#](https://dev.to/deogadkarravina/asynchronous-programming-with-c-34pd)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
